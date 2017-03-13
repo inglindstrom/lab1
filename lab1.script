@@ -1,0 +1,45 @@
+Script started on 2017?03?14? (??) 01?34?59?
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/inglindstrom/lab1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/inglindstrom/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/inglindstrom/lab1 $[00m git config -l
+user.name=Ingrid
+user.email=ing_lindstrom@hotmail.com
+branch.autosetuprebase=always
+color.ui=true
+color.status=auto
+color.branch=auto
+merge.tool=vimdiff
+push.default=simple
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/inglindstrom/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+branch.master.rebase=true
+user.name=Ingrid
+user.email=ing_lindstrom@hotmail.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/inglindstrom/lab1 $[00m git clone htp[Ktps://github.com/<[Kinglin 
+dstrom/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  25% (1/4)   [K
+remote: Compressing objects:  50% (2/4)   [K
+remote: Compressing objects:  75% (3/4)   [K
+remote: Compressing objects: 100% (4/4)   [K
+remote: Compressing objects: 100% (4/4), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  16% (1/6)   
+Unpacking objects:  33% (2/6)   
+Unpacking objects:  50% (3/6)   
+Unpacking objects:  66% (4/6)   
+Unpacking objects:  83% (5/6)   
+Unpacking objects: 100% (6/6)   
+Unpacking objects: 100% (6/6), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/inglindstrom/lab1 $[00m c[K
+Script done on 2017?03?14? (??) 01?36?34?
